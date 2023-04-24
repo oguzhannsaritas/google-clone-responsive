@@ -1,5 +1,5 @@
 <template>
-    <div class="flex flex-wrap h-[224px] flex-col justify-center bg-red items-center pb-[2px] pl-[2px] pr-[2px] pt-[2px] w-[573px] xs:w-[480px]  lg:w-[573px] xxs:w-4/5 sm:w-[573px] md:w-[573px] m-auto -mt-9  relative left-2  mx-auto  ">
+    <div class="flex flex-wrap h-[224px] flex-col justify-center  items-center pb-[2px] pl-[2px] pr-[2px] pt-[2px] w-[573px] xs:w-[480px]  lg:w-[573px] xxs:w-4/5 sm:w-[573px] md:w-[573px] m-auto -mt-9  relative left-2  mx-auto  ">
         <div class="flex flex-wrap">
             <a href="/"
                 class="h-28 w-24 flex group justify-center absolute  rounded-lg right-[82%] lg:right-[82%] md:right-[82%] sm:right-[82%] xxs:right-[75%] bottom-28 border-solid border-0 m-auto hover:bg-255   ">
