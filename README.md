@@ -1,6 +1,10 @@
 # chorme-clon
 
 
+
+https://user-images.githubusercontent.com/127697792/234276223-09138677-0290-4bbc-ad2e-e29d828c38d8.mp4
+
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
